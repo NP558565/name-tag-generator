@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/76566329/131667566-bbb62ec2-f620-4f2f-86da-9151a9d8d607.PNG)
 # Name Tag Generator:
 Create name tags for you and your friends!
 
